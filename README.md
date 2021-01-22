@@ -22,4 +22,6 @@
 
 <h3 align="left">Support:</h3>
 <a href="https://github.com/sponsors/khancyr?o=esb"><img src="https://img.shields.io/github/sponsors/khancyr?label=Sponsor%20me%20on%20Github&style=for-the-badge" alt="Github Sponsor">
+  
+[![Linkedin: khancyr](https://img.shields.io/badge/-khancyr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-kancir/)](https://www.linkedin.com/in/pierre-kancir/)
 
