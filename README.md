@@ -3,6 +3,7 @@
 
 ![Khancyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=khancyr&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khancyr&" alt="khancyr" /></p>
+![trophy](https://github-profile-trophy.vercel.app/?username=khancyr&theme=darkhub&column=8&margin-w=2&no-frame=true)
 
 <h3 align="left">Most used Languages and Tools :</h3>
 <p align="left">
